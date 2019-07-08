@@ -1,2 +1,11 @@
 # scipy-2019
-SciPy 2019 Code and Docs
+
+Tutorials
+
+1. Modern Time Series Analysis
+
+2. PyViz
+
+3. Deep Learning Principles
+
+4. Network Analysis Made Simple
